@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Obuna%20Bo‘ling-00FFCC?style=for-the-badge&logo=youtube&logoColor=black" />
+  <img src="https://img.shields.io/badge/Subscribe-00FFCC?style=for-the-badge&logo=youtube&logoColor=black" />
 </p>
 
 <h1 align="center">
@@ -39,4 +39,23 @@
 ## 📊 Statistika
 
 <p align="center">
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api?username=rufat_dev&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rufat_dev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Baylanıs
+
+<p align="center">
+  <a href="https://t.me/rufat_dev">
+    <img src="https://img.shields.io/badge/Telegram-00FFCC?style=for-the-badge&logo=telegram&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+<p align="center">⚡ Code. Learn. Repeat. ⚡</p>
