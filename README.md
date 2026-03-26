@@ -24,7 +24,7 @@
 ## ⚙️ Texnologiyalar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode, />
 </p>
 
 ---
