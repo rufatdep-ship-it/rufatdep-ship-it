@@ -44,7 +44,7 @@
 ## 🌐 Baylanıs
 
 <p align="center">
-  <a href="https:@rufat.dev//t.me/username">
+  <a href="https://t.me/@rufat.dev">
     <img src="https://img.shields.io/badge/Telegram-00FFCC?style=for-the-badge&logo=telegram&logoColor=black"/>
   </a>
 </p>
